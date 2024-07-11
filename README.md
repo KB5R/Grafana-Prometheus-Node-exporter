@@ -15,6 +15,11 @@ docker compose up -d
 ```bash
 docker ps
 ```
+```bash
+cp ./prometheus.yml ./prometheus/prometheus.yml
+```
+```bash
+docker compose up -d
 ```
 localhost:3000 localhost:9090 localhost:9100
 ```
