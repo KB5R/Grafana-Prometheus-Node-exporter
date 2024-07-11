@@ -21,5 +21,6 @@ cp ./prometheus.yml ./prometheus/prometheus.yml
 ```bash
 docker compose up -d
 ```
+```bash
 localhost:3000 localhost:9090 localhost:9100
 ```
